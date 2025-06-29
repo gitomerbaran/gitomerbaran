@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [YOUR NAME]
+# 👋 Hi there, I'm Omer Berkay Baran
 
 🎓 A Software Engineering graduate with a strong focus on **Flutter mobile development**.  
 💻 2+ years of experience building cross-platform applications with advanced Flutter skills.  
@@ -30,9 +30,8 @@
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: [YOUR EMAIL]
-- 🌐 LinkedIn: [YOUR LINKEDIN PROFILE]
-- 💻 GitHub: [YOUR GITHUB PROFILE LINK]
+- 📧 Email: omerberkaybaran@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/omerberkaybaran/
 
 ---
 

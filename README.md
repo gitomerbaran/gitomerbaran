@@ -11,9 +11,10 @@
 ## 🛠️ Tech Stack & Skills
 
 - **Mobile Development:** Flutter (Advanced), Dart
-- **Back-End:** ASP.NET (.NET), Node.js (Basic)
+- **LLM , ML **
+- **Back-End:**  Node.js , GO 
 - **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Firebase
-- **Languages:** Dart, C++ (Basic), Java (Basic)
+- **Languages:** Dart, Java , Python
 - **Dev Tools:** Git, GitHub, Postman
 - **Concepts:** Software Design Patterns, Layered Architecture, SOLID Principles
 - **Operating Systems:** Basic UNIX/Linux

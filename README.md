@@ -2,7 +2,7 @@
 
 🎓 A Software Engineering graduate with a strong focus on **Flutter mobile development**.  
 💻 2+ years of experience building cross-platform applications with advanced Flutter skills.  
-🛠️ Actively developing my back-end expertise in **.NET**, **Node.js**, and modern database technologies.  
+🛠️ Actively developing my back-end expertise in **GO**, **Node.js**, and modern database technologies.  
 🏗️ Passionate about **software design patterns**, **layered architecture**, and **SOLID principles**.  
 🚀 Lifelong learner, problem-solver, and collaborative team player committed to writing clean, maintainable code.
 

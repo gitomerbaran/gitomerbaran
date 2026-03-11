@@ -29,7 +29,7 @@ Passionate about bridging the gap between **Mobile Architecture** and **Generati
 * Developing an autonomous trading system utilizing **real-time data analysis** and scientific calculation models.
 * **Focus:** High-frequency data processing, Python, AI-based market prediction.
 
-### 🎮 **Supermarket Simulator (Unity)**
+### 🎮 **Simulator (Unity)**
 * Leading the technical architecture and gameplay coding for a detailed simulation game.
 * **Focus:** Unity (C#), Object-Oriented Design, Performance Optimization.
 
